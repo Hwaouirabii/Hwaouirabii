@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-<!--
+
 I'm Rabii Hwaoui!
     Happy to see you here exploring my README code
 
 - 🌱 I’m currently learning Cloud computing
--->
 
 
 ### My mission
