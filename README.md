@@ -2,7 +2,7 @@
 
 
 I'm Rabii Hwaoui!
-    Happy to see you here exploring my README code
+    Happy to see you here exploring my profile
 
 - 🌱 I’m currently studing Cloud computing
 
