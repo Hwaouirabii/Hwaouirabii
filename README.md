@@ -15,7 +15,7 @@ I’m driven by a love for solving problems! With a technical background, I’ve
 -->
 
 ### Main skills
-[![My Skills](https://skillicons.dev/icons?i=,github,git,mongodb,mysql,java,spring,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,mongodb,mysql,java,spring,react,html,css)](https://skillicons.dev)
 
 ### Studying
 [![Learning](https://skillicons.dev/icons?i=aws,azure,redhat)](https://skillicons.dev)
