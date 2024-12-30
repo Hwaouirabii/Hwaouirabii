@@ -4,7 +4,7 @@
 I'm Rabii Hwaoui!
     Happy to see you here exploring my README code
 
-- 🌱 I’m currently learning Cloud computing
+- 🌱 I’m currently studing Cloud computing
 
 
 ### My mission
